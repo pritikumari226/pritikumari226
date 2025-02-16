@@ -6,11 +6,11 @@
 
 <img src="lottie-000_1_1.gif" align="right" width="400">
 
-- 🔭 I’m currently working on [ATPL Website](arthtechnocracy.com)
+- 🔭 I’m currently working on [ATPL Website](https://arthtechnocracy.com)
 
 - 🌱 I’m currently learning **React.js, Express.js, Node.js, etc.**
 
-- 👯 I’m looking to collaborate on [Dating-Shating]([.com](https://pitaramcq.com/dating/new))
+- 👯 I’m looking to collaborate on [Dating-Shating]((https://pitaramcq.com/dating/new))
 
 
 - 💬 Ask me about **C, C++, JAVA, HTML, CSS, JAVASCRIPT, BOOTSTRAP, JQUERY, PLUGINS, TEMPLATES, AJAX, PHP, etc.**
