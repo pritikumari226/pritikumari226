@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priti</h1>
 <h3 align="center">A Passionate PHP Developer From India.</h3>
 
-<img src="lottie-000_1_1.gif" align="right" width="400">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritikumari226&label=Profile%20views&color=0e75b6&style=flat" alt="pritikumari226" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritikumari226" alt="pritikumari226" /></a> </p>
+
+<img src="lottie-000_1_1.gif" align="right" width="400">
 
 - 🔭 I’m currently working on [XYZ](google.com)
 
