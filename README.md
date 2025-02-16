@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js, Express.js, Node.js, etc.**
 
-- 👯 I’m looking to collaborate on [Dating-Shating]((https://pitaramcq.com/dating/new))
+- 👯 I’m looking to collaborate on [Dating-Shating](https://pitaramcq.com/dating/new)
 
 
 - 💬 Ask me about **C, C++, JAVA, HTML, CSS, JAVASCRIPT, BOOTSTRAP, JQUERY, PLUGINS, TEMPLATES, AJAX, PHP, etc.**
