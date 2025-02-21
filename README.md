@@ -6,7 +6,7 @@
 
 <img src="lottie-000_1_1.gif" align="right" width="400">
 
-- 🔭 I’m currently working on [ATPL Website](https://arthtechnocracy.com)
+- 🔭 I’m currently working on [ATPL Website](https://arthtechnocracy.com/our_team_arth_technocracy/)
 
 - 🌱 I’m currently learning **React.js, Express.js, Node.js, etc.**
 
