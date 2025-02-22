@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priti</h1>
-<h3 align="center">A Passionate PHP Developer From India.</h3>
+<h3 align="center">A Passionate PHP Developer From India.</h3>'
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritikumari226&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-bhati" /> </p>
 
 <img src="lottie-000_1_1.gif" align="right" width="400">
 
